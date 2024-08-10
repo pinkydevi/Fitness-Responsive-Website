@@ -513,6 +513,11 @@ hr{
 
         .bmi-table {
             width: 20%;
+            
+        }
+
+        .bmi-height{
+            margin-top: 20px;
         }
     
         .bmi-subtitle, .fitness-subtitle {
